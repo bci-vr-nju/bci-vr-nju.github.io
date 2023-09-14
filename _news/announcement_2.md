@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We are now recruiting students to join our research group!
-date: 2023-09-15 20:00:00-0400
+date: 2023-09-14 20:00:00
 inline: false 
 related_posts: false
 ---
