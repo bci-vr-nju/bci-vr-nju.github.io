@@ -4,8 +4,8 @@
 
 title: BCI-VR @ NJU# the website title (if blank, full name will be used instead)
 first_name: the BCI-VR group 
-middle_name: 
-last_name: @ Nanjing University 
+middle_name: . 
+last_name: Nanjing University 
 email: 21185009@smail.nju.edu.cn 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The website for the project led by the BCI-VR group at NJU.
