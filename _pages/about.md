@@ -25,7 +25,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hi Guys✋, this is the BCI-VR research group at Nanjing University. we are surpervised by [Dr. Guihuan Feng](https://software.nju.edu.cn/fenggh/). We are leading an *Innovation and Entrepreneurship Training Program for College Students*, starting from Sept, 2023.
+Hi Guys✋, this is the BCI-VR research group at Nanjing University. we are supervised by [Dr. Guihuan Feng](https://software.nju.edu.cn/fenggh/). We are leading an *Innovation and Entrepreneurship Training Program for College Students*, starting from Sept, 2023.
 
 We want to incorporate Brain-Computer Interfaces(BCI) with Virtual Reality(VR), aiming to explore human brain's potentials with BCI as well as to enhance the interaction in VR with BCI.
 
