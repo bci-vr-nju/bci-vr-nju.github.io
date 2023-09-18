@@ -19,10 +19,10 @@ featured: true
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="<img src="https://yunzinan-pic-bed.oss-cn-nanjing.aliyuncs.com/2023/03/202309182056619.png"/>" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="<img src="assets/img/djsy.png"/>" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="<img src="https://yunzinan-pic-bed.oss-cn-nanjing.aliyuncs.com/2023/03/202309182059903.png"/>" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="<img src="assets/img/galea.png"/>" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
