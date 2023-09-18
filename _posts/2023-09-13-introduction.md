@@ -6,6 +6,8 @@ description: 项目启动介绍
 tags:  
 categories: project
 featured: true
+giscus_comments: true
+related_posts: false
 ---
 
 # 什么是脑机接口? 脑机接口与VR能够产生怎样的化学反应?
