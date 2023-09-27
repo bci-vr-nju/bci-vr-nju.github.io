@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  BCI在VR中的应用-大创项目介绍 
+title:  脑机接口(BCI)与VR技术的融合与应用-大创项目介绍 
 date:   2023-09-13 22:08:00 
 description: 项目启动介绍 
 tags:  
