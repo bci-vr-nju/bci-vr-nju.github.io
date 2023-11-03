@@ -29,4 +29,4 @@ Hi Guys✋, this is the BCI-VR research group at Nanjing University. we are supe
 
 We want to incorporate Brain-Computer Interfaces(BCI) with Virtual Reality(VR), aiming to explore human brain's potentials with BCI as well as to enhance the interaction in VR with BCI.
 
-If you are interested about our program, please feel free to [contact us](mailto: 211850009@smail.nju.edu.cn)!
+If you are interested about our program, please feel free to [contact us](mailto:shen.ouy03@gmail.com)!
